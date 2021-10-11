@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: #22C3A3;
+    padding: 10px;
+    overflow: hidden;
+   
+}
+.header-logo{
+    color: white;
+    font-size: 30px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 10px;
+    
+}
+.menu{
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+    margin-right: 10px;
+   
+    
+}
+.menu ul{
+    
+}
+.menu ul li{
+    display: inline-block;
+    list-style-type: none;
+    
+   
+}
+.menu ul li a{
+    color: whitesmoke;
+    padding: 10px;
+    text-decoration: none;
+}
+.banner{
+    background-image: url(img/header-bg01.jpg);
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    padding: 200px;
+    color: white;
+}
+.banner h1{
+    font-size: 50px;
+    
+}
+.banner-button a{
+    text-decoration: none;
+    border:1px solid white;
+    padding: 5px 20px 5px 20px;
+    color: white;
+    margin-top: 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.section{
+    text-align: center;
+    padding: 100px 0px 250px 0px;
+    
+}
+.section-content{
+    text-align: center;
+    margin-top: 100px ;
+    margin-left: 100px;
+}
+.section-content1{
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    float: left;
+    margin-right: 110px;
+}
+.section-content1 i{
+    color: #0DBF9B;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
+.info{
+    border-top: 3px solid #22C3A3;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+.info h1{
+    margin-top: 50px;
+}
+.info-img{
+    display: inline-block;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.info-img img{
+    width: 600px;
+    height: 400px;
+   
+}
+.info-content{
+    text-align: left;
+    margin-right: 20px;
+    margin-top: 45px;
+}
+.contact-info{
+    text-align: center;
+    padding: 50px;
+    background-color: #F6F6F6;
+}
+.content-wrapper{
+    margin: auto;
+    width: 100%;
+    height: 200px;
+    margin-left: 100px;
+    
+}
+.contact-info-content{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+    float: left;
+    text-align: center;
+    padding: 31px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.contact-info-content i{
+    color: #0DBF9B;
+    font-size: 20px;
+}
+.footer1{
+    background-color: #0DBF9B;
+    text-align: center;
+    padding: 5px;
+}
+.footer1 ul{
+    margin-top: 10px;
+}
+.footer1 li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+}
+.footer1 ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+}
+.footer{
+    background-color: black;
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+
